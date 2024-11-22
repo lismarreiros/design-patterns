@@ -11,8 +11,12 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.9.0",
+    "@types/validator": "^13.12.2",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
     "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "validator": "^13.12.0"
   }
 }
