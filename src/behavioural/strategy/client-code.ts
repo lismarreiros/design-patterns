@@ -1,5 +1,5 @@
-import { DefaultDiscount } from "./discount-default";
-import { ECommerceShoppingCart } from "./ecommerce-shopping-cart";
+import { DefaultDiscount } from "./shopping-cart/discount-default";
+import { ECommerceShoppingCart } from "./shopping-cart/ecommerce-shopping-cart";
 
 const shoppingCart = new ECommerceShoppingCart();
 shoppingCart.discount = new DefaultDiscount();
