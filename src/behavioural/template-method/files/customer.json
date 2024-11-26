@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Lando Norris",
+    "age": "30",
+    "cpf": "123.010.102-40"
+  },
+  {
+    "name": "Max Verstappen",
+    "age": "30",
+    "cpf": "123.010.102-40"
+  },
+  {
+    "name": "Charles Leclerc",
+    "age": "30",
+    "cpf": "123.010.102-40"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "age": "30",
+    "cpf": "123.010.102-40"
+  },
+  {
+    "name": "Carlos Sainz",
+    "age": "30",
+    "cpf": "123.010.102-40"
+  },
+  {
+    "name": "Oscar Piastri",
+    "age": "30",
+    "cpf": "123.010.102-40"
+  },
+  {
+    "name": "George Russell",
+    "age": "30",
+    "cpf": "123.010.102-40"
+  }
+]

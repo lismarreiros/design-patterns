@@ -1,0 +1,7 @@
+Lando Norris	30	123.010.102-40
+Max Verstappen	30	123.010.102-40
+Charles Leclerc	30	123.010.102-40
+Lewis Hamilton	30	123.010.102-40
+Carlos Sainz	30	123.010.102-40
+Oscar Piastri	30	123.010.102-40
+George Russell	30	123.010.102-40
